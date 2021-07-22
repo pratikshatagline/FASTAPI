@@ -1,0 +1,10 @@
+__pycache__/
+env/
+venv/
+.env
+images/
+tmp/
+exceptions
+.vscode
+.DS_Store
+*.db
